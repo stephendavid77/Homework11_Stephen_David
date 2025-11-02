@@ -27,3 +27,8 @@ Each tab contains:
 2. Select an iPhone simulator (e.g., *iPhone 15 Pro*).  
 3. Press **Run ▶️** to launch the app.  
 4. Navigate between the three tabs to explore each theme.
+
+
+## 🎬 Demo Video
+
+https://github.com/stephendavid77/Homework11_Stephen_David/blob/main/Homework11_Demo.mov
